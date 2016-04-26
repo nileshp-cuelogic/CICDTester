@@ -132,6 +132,6 @@ D:\CICDTester\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.OAuth.xml
 D:\CICDTester\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Google.xml
 D:\CICDTester\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.Twitter.xml
 D:\CICDTester\HelloWorld\HelloWorld\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-D:\CICDTester\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
 D:\CICDTester\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
 D:\CICDTester\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\CICDTester\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
