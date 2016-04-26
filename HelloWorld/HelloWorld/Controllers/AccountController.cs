@@ -28,14 +28,6 @@ namespace HelloWorld.Controllers
 
 
 
-
-
-
-
-
-
-
-
         }
 
         public AccountController(ApplicationUserManager userManager, ApplicationSignInManager signInManager )
