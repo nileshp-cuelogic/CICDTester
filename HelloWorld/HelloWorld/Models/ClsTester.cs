@@ -10,7 +10,7 @@ namespace HelloWorld.Models
     {
         public string CreateHelloWorldString()
         {
-            return "Hello World";
+            return "Hello World!";
         }
     }
 }
